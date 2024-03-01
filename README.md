@@ -78,12 +78,12 @@ Happy learning, and may your code compile smoothly on the first try! 🎉
   **Last stargazer:**
 
   <!--last_stargazer_start-->
-[![Last Stargazer](https://avatars.githubusercontent.com/u/131466597?v=4&s=250)](https://github.com/schardot)
+[![Last Stargazer](https://avatars.githubusercontent.com/u/73123991?v=4&s=250)](https://github.com/chaglr)
 <!--last_stargazer_end-->
   
-  Thanks to <!--name_start-->[schardot](https://github.com/schardot)<!--name_end--> for starring the repository! 🎉
+  Thanks to <!--name_start-->[chaglr](https://github.com/chaglr)<!--name_end--> for starring the repository! 🎉
 
-  **Updates occur daily. Last update :** <!--date_start-->29.02.2024, 02:15:10<!--date_end--> (CET)
+  **Updates occur daily. Last update :** <!--date_start-->01.03.2024, 02:21:31<!--date_end--> (CET)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rphlr/42-Subjects&type=Date)](https://star-history.com/#rphlr/42-Subjects&Date)
 
