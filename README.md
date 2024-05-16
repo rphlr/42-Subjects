@@ -83,7 +83,7 @@ Happy learning, and may your code compile smoothly on the first try! 🎉
   
   Thanks to <!--name_start-->[gabriGutiz](https://github.com/gabriGutiz)<!--name_end--> for starring the repository! 🎉
 
-  **Updates occur daily. Last update :** <!--date_start-->15.05.2024, 02:22:17<!--date_end--> (CET)
+  **Updates occur daily. Last update :** <!--date_start-->16.05.2024, 02:21:57<!--date_end--> (CET)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rphlr/42-Subjects&type=Date)](https://star-history.com/#rphlr/42-Subjects&Date)
 
