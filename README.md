@@ -114,12 +114,12 @@ Happy learning, and may your code compile smoothly on the first try! 🎉
   **Last stargazer:**
 
   <!--last_stargazer_start-->
-[![Last Stargazer](https://avatars.githubusercontent.com/u/8679058?v=4&s=250)](https://github.com/Tgo1014)
+[![Last Stargazer](https://avatars.githubusercontent.com/u/68607571?v=4&s=250)](https://github.com/ThisIsPhila)
 <!--last_stargazer_end-->
   
-  Thanks to <!--name_start-->[Tgo1014](https://github.com/Tgo1014)<!--name_end--> for starring the repository! 🎉
+  Thanks to <!--name_start-->[ThisIsPhila](https://github.com/ThisIsPhila)<!--name_end--> for starring the repository! 🎉
 
-  **Updates occur daily. Last update :** <!--date_start-->16.06.2024, 02:37:38<!--date_end--> (CET)
+  **Updates occur daily. Last update :** <!--date_start-->17.06.2024, 02:34:48<!--date_end--> (CET)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rphlr/42-Subjects&type=Date)](https://star-history.com/#rphlr/42-Subjects&Date)
 
